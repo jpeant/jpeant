@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jpeant
+- 👋 Hi, I’m Juha Antikainen @jpeant
 - 👀 I’m interested in coding in general, but mainly python and java.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on... nothing.
+- 💞️ I’m looking to collaborate on something special.
 - 📫 How to reach me: you'll find a way.
 
 <!---
